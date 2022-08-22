@@ -1,7 +1,7 @@
 import random
 
 #Obtener opcion del usuario
-user = input("0->Rock, 1->Paper, 2->Scissors: ")
+user = int(input("0->Rock, 1->Paper, 2->Scissors: "))
 
 
 #Optener opcion del computador
