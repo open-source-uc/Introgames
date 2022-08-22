@@ -4,7 +4,7 @@ Este repositorio fue hecho en colaboración con el curso ***IIC1005***, ¡El exp
 
 El objetivo es **aprender de qué trata la comunidad de Código Abierto** (Open Source) colaborando en ella, tal como lo hacen a diario millones de personas a nivel mundial.
 ## Actividad
-El presente repositorio contiene 2 juegos creados en Python solo con materia del curso *IIC1103*, *Introducción a la Programación*. Sin embargo, **¡tienen bugs :bug:!**
+El presente repositorio contiene 5 juegos creados en Python solo con materia del curso *IIC1103*, *Introducción a la Programación*. Sin embargo, **¡tienen bugs :bug:!**
 
 Como persona **experta** en la colaboración Open Source decides tomar este asunto bajo tus propias manos. Pero, ¿cómo sé yo donde están estos bugs? ¿Debo ir a ciegas leyendo todo el código de todos los programas?
 
