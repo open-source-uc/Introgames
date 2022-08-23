@@ -3,6 +3,10 @@ import random
 #Obtener opcion del usuario
 user = int(input("0->Rock, 1->Paper, 2->Scissors: "))
 
+while user != 0 and user != 1 and user != 2:
+    print("Please follow the input format, select a number to play!")
+    user = int(input("0->Rock, 1->Paper, 2->Scissors: "))
+
 
 #Optener opcion del computador
 comp = random.randint(0,2)
