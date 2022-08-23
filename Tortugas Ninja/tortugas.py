@@ -8,7 +8,7 @@ limite = int(input("Numero de intentos: "))
 encontrado = False
 intento = 0
 
-while not encontrado:
+while limite > intento:
     print("Intento", intento)
     n = int(input("=> "))
 
